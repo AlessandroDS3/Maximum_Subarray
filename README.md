@@ -1,4 +1,21 @@
-# Laboratorio: suma máxima de un subarreglo
+# Datos del estudiante
+
+- **Apellidos y nombres:** Mamani Salazar, Diego De Alessandro
+- **CUI:** 20243469
+
+## Especificaciones de la computadora
+
+| Componente | Especificación |
+| --- | --- |
+| Procesador | Intel Core i5-12450H de 12.ª generación, 8 núcleos y 12 hilos, hasta 4,4 GHz |
+| Memoria RAM | 15 GiB reconocidos por el sistema |
+| Almacenamiento | SSD NVMe Kingston SNV3S1000G de 1 TB (931,5 GiB) |
+| Gráficos integrados | Intel UHD Graphics (Alder Lake-P GT1) |
+| Gráficos dedicados | NVIDIA GeForce GTX 1650 Mobile / Max-Q |
+| Sistema operativo | Arch Linux de 64 bits (x86_64) |
+| Kernel | Linux 7.2.3-arch1-2 |
+
+# Laboratorio 01 : Máximo subarreglo
 
 ## 1. Implementación
 
